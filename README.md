@@ -45,8 +45,8 @@ Frontend Knowledge Structure
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
         - 单元测试
-            - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
-            - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [QUnit](http://qunitjs.com/)/[Jasmine](https://jasmine.github.io/)
+            - [Mocha](http://mochajs.org/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
